@@ -4,4 +4,7 @@
 ## 🔍 Лабораторная работа  
 [Лаба](./notebooks/NM_EAI_lab_1.ipynb)  
 
+## 📄 Отчет  
+[Отчет](./otchet/lab_1.pdf) 
+
 ---
